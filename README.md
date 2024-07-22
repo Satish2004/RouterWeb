@@ -2,7 +2,7 @@
 Introduction
 React Router is a popular library for handling routing in React applications. It allows developers to build single-page applications with navigation capabilities, enabling a smooth user experience without full page reloads.
 
-Features
+## Features
 Declarative Routing: Define your routes in a declarative manner.
 Dynamic Routing: Handle routes with dynamic parameters.
 Nested Routing: Organize your routes hierarchically.
@@ -12,25 +12,25 @@ Customizable: Easily customize routing behavior and transitions.
 Installation
 To include React Router in your project, install it via npm or yarn.
 
-Basic Setup
+## Basic Setup
 Set up React Router in your main application file to manage your application's routing.
 
-Defining Routes
+## Defining Routes
 Define routes by mapping URL paths to React components, specifying what should be rendered for each route.
 
-Nested Routes
+## Nested Routes
 Organize routes within parent routes to create complex route hierarchies, making it easier to manage and structure your application.
 
-Dynamic Routing
+## Dynamic Routing
 Create routes that can handle variable parts of the URL, such as user IDs or search parameters, allowing for more dynamic and flexible routing.
 
-Programmatic Navigation
+## Programmatic Navigation
 Navigate between routes programmatically using functions to change routes based on application logic or user actions.
 
-Protected Routes
+## Protected Routes
 Implement route protection to restrict access to certain parts of your application based on user authentication or other conditions.
 
-Best Practices
+## Best Practices
 Use BrowserRouter for client-side routing unless hash-based routing is needed.
 Keep route definitions organized and avoid excessive nesting.
 Provide a fallback route for undefined paths to handle 404 errors gracefully.
@@ -46,6 +46,7 @@ React Router Tutorial
 Contributing
 Feel free to contribute to this project by opening issues, submitting pull requests, or suggesting improvements.
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+                  # HERE IS DEMO
 ![Screenshot 2024-07-22 235830](https://github.com/user-attachments/assets/1fdf0cd1-0805-4020-9239-d86c3ffb54d9)
